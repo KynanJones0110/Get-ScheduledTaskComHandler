@@ -35,3 +35,4 @@ From a security perspective, this is a common area for persistence mechanisms, a
 - Security Auditing: Detecting unauthorized or suspicious DLLs registered as scheduled tasks.
 - System Troubleshooting: Identifying which component is being triggered by a specific system task.
 - Forensics: Investigating persistence techniques used by malware or PUPs (Potentially Unwanted Programs).
+- Red Team Persistence
